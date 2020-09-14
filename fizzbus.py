@@ -10,6 +10,7 @@ Om talet är jämnt delbart med 5 så ska ordet “Buzz” skrivas ut istället 
 
 Om talet är jämnt delbart med både 3 och 5 så ska ordet “Fizzbuzz” skrivas ut istället för någonting annat.
 
+versions test
 '''
 
 def main():
@@ -25,8 +26,8 @@ def main():
             print("Buzz")
         else:
             print(n)
-        
 
+""
 
 
 
