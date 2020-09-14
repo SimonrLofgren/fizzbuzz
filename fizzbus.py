@@ -25,8 +25,7 @@ def main():
             print("Buzz")
         else:
             print(n)
-        """
-        """
+        
 
 
 
